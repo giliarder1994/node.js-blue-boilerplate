@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="./.github/assets/blue-saiyan-bg.png" alt="Logo" height="200">
   <h1 align="center"><strong>NODE BOILERPLATE - BLUE EDITION</strong></h1>
   <p align="center">
 	  Don't start a new Node project from zero!<br> Use this simple <b>Nodejs</b> boilerplate with pre-configured <b>Typescript</b> in a modern way.
@@ -50,24 +49,14 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/felipeAguiarCode/node-blue-boilerplate
+$ git clone https://github.com/giliarder1994/node.js-blue-boilerplate
 
 # Go into the repository
-$ cd node-blue-boilerplate
+$ cd node.js-blue-boilerplate
 
 # Install dependencies
 $ npm install
 ```
-
-## Author
-
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                            [Linkedin](www.linkedin.com/in/felipe-aguiar-exe/)                                             |
-
-# Credits
-
-icons by [Pino Lamanna][dribble-icon]
 
 [typescript]: https://www.typescriptlang.org/
 [typescript-5-4]: https://www.typescriptlang.org/
