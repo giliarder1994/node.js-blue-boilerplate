@@ -1,1 +1,0 @@
-# node.js-blue-boilerplate
